@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 Icon?
 
 # Thumbnails
@@ -23,3 +24,4 @@ results
 
 node_modules
 parse.js
+.idea/
